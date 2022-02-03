@@ -3,7 +3,7 @@ module github.com/Toinounet21/coreth-trafficked-v0.8.5-rc.0
 go 1.16
 
 require (
-	github.com/Toinounet21/avalanchego-trafficked-v1.7.4 v0.0.0
+	github.com/Toinounet21/avalanchego-trafficked-v1.7.4 master
 	github.com/VictoriaMetrics/fastcache v1.6.0
 	github.com/btcsuite/btcd v0.21.0-beta // indirect
 	github.com/cespare/cp v0.1.0
